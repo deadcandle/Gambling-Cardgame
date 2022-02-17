@@ -5,6 +5,8 @@ public class Card {
     private String name;
     private int value;
 
+    // Test commit
+
     public Card(String suit, String name, int value) {
         this.suit = suit;
         this.name = name;
