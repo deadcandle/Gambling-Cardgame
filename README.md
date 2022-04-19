@@ -1,3 +1,3 @@
-# kaartspel
+# Cardgame
 
 For school.
